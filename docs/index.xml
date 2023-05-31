@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on My New Hugo Site</title>
+    <link>https://varunraj-6081.github.io/theplaybook/docs/</link>
+    <description>Recent content in Docs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 May 2023 12:37:35 +0530</lastBuildDate><atom:link href="https://varunraj-6081.github.io/theplaybook/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://varunraj-6081.github.io/theplaybook/docs/test/</link>
+      <pubDate>Wed, 31 May 2023 12:37:35 +0530</pubDate>
+      
+      <guid>https://varunraj-6081.github.io/theplaybook/docs/test/</guid>
+      <description>This is Test page </description>
+    </item>
+    
+  </channel>
+</rss>
